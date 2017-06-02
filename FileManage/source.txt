@@ -1,0 +1,8 @@
+Hello!
+This is the source file for program.
+
+This paragraph must contain spaces, digits, characters, new lines.
+
+In this program we have to read a file and calculate number of digits, capital letters, small letters, spaces, enters i.e. \n.
+
+Some digits are 7,15,909,17,81,37,31.

@@ -1,0 +1,7 @@
+
+Capital letters: 5
+Small letters: 193
+Digits: 14
+Spaces: 38
+New Lines: 8
+
